@@ -1,4 +1,5 @@
 🌦️ Weather Application
+
 A modern Android weather application built using Java and Kotlin that provides real-time weather updates by integrating external RESTful APIs.
 
 🚀 Features
@@ -18,6 +19,7 @@ A modern Android weather application built using Java and Kotlin that provides r
 
 
 📌 Highlights
+
 -Implemented modular and maintainable code structure
 -Ensured fault-tolerant behavior with proper exception handling
 -Improved application performance through debugging and optimization
