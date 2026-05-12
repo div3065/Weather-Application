@@ -10,13 +10,13 @@ A modern Android weather application built using Java and Kotlin that provides r
 🔄 Optimized data flow for faster response time  
 
 🛠️ Tech Stack
-Java, Kotlin
-RESTful APIs
-JSON Data Processing
-Git (Version Control) 
+-Java, Kotlin
+-RESTful APIs
+-JSON Data Processing
+-Git (Version Control) 
 
 
 📌 Highlights
-Implemented modular and maintainable code structure
-Ensured fault-tolerant behavior with proper exception handling
-Improved application performance through debugging and optimization
+-Implemented modular and maintainable code structure
+-Ensured fault-tolerant behavior with proper exception handling
+-Improved application performance through debugging and optimization
